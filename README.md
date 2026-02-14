@@ -80,3 +80,4 @@ make testar
 
 - [Matheus Monteiro Azevedo](https://github.com/matheusm18) - a111430
 - [Francisco Luciano Martins](https://github.com/XicoMartins54) - a111775
+- [José dos Santos Gomes](https://github.com/joosegoomes) - a110367
