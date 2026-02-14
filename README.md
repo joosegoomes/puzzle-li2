@@ -82,7 +82,7 @@ make testar
 - [Francisco Luciano Martins](https://github.com/XicoMartins54) - a111775
 - [José dos Santos Gomes](https://github.com/joosegoomes) - a110367
 
-# [puzzle-li2]
+# puzzle-li2
 
 ⚠️ **Aviso Legal:** Este código é propriedade exclusiva do autor. 
 Nenhuma parte pode ser copiada, usada ou republicada sem permissão.
